@@ -18,10 +18,12 @@
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "BOT_TOKEN": {
-            "description": "Get this from @BotFather XD"
+            "description": "Get this from @BotFather XD
         },
         "MONGODB_URI": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast. Tutorial: https://www.youtube.com/watch?v=aXlF80Cn7iU"
+         "required": false,
+            "value": "False"
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
