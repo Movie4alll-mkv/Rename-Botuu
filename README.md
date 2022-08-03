@@ -39,6 +39,8 @@ Press Below Button to Deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Rename-Bot)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Af6qyi?referralCode=fc7LCh)
+
 #### Thanks to [subinps](https://github.com/subinps) for helping
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
 
